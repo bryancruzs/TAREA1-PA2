@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hn.uth.ejercicio1_bryan_cruz.AppTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 s - in hn.uth.ejercicio1_bryan_cruz.AppTest
